@@ -1,2 +1,4 @@
-# Cashina
-Minimal SDL3-based game engine with a scene editor, objects(and properties), and per-frame(and per object) C scripts.
+When I'll do vtwm and other things I'll do it.
+Cashina - engine -> machina(latin) -> cachina -> cashina
+
+So, I just wanna make a game in C without doing the ONE MILION DrawX's and mannualy writeing the pixel pos.
